@@ -80,3 +80,4 @@ output "bucket_proof" {
     tags               = aws_s3_bucket.compliant_bucket.tags_all
   }
 }
+
