@@ -183,10 +183,4 @@ Key takeaways include:
 
 ---
 
-## Demo
 
-| Step | Screenshot |
-|------|------------|
-| Evidence Vault Created | ![](images/terraform-apply.png) |
-| Evidence Bundle Uploaded | ![](images/evidence-receipt.png) |
-| Object Lock Verification | ![](images/object-lock-denied.png) |
